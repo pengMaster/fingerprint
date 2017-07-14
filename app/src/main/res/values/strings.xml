@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fingerManager</string>
+    <!-- 指纹识别 -->
+    <string name="fingerprint_description">确认指纹并继续</string>
+    <string name="fingerprint_hint">触摸指纹识别器</string>
+    <string name="fingerprint_not_recognized">未识别的指纹,请重试.</string>
+    <string name="fingerprint_success">指纹已识别</string>
+    <string name="purchase_done">购买成功</string>
+    <string name="new_fingerprint_enrolled_description">已经加入了一个新的指纹,需要输入密码</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_fingerprint_to_authenticate_title">使用指纹进行授权</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+</resources>
