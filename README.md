@@ -6,7 +6,7 @@
   
   
   - 解锁图案
-  ![image](pic/show.png =100x100)
+  ![image](./pic/show.png =100x100)
 
   - 解锁失败提示
    ![image](https://github.com/wp521/fingerLock/blob/master/pic/error.png) 
