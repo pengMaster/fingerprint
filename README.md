@@ -3,13 +3,11 @@
 
   # 指纹识别
   
-  
-  <img src="https://github.com/wp521/fingerLock/blob/master/pic/show.png" width="150" height="200" alt="解锁图案"/>
-
-  ![image](https://github.com/wp521/fingerLock/blob/master/pic/show.png)
+  - 解锁图案
+   <img src="https://github.com/wp521/fingerLock/blob/master/pic/show.png" width="110" height="170" alt=""/>
 
   - 解锁失败提示
-   ![image](https://github.com/wp521/fingerLock/blob/master/pic/error.png) 
+   <img src="https://github.com/wp521/fingerLock/blob/master/pic/error.png" width="110" height="170" alt=""/>
 
 - 解锁失败次数过多
-   ![image](https://github.com/wp521/fingerLock/blob/master/pic/error_mas.png)
+  <img src="https://github.com/wp521/fingerLock/blob/master/pic/error_mas.png" width="110" height="170" alt=""/>
