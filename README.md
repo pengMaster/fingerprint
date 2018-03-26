@@ -6,7 +6,7 @@
   
   
   - 解锁图案
-  ![image](https://github.com/wp521/fingerLock/blob/master/pic/show.png)
+  ![image](https://github.com/wp521/fingerLock/blob/master/pic/show.png = 110*170)
 
   - 解锁失败提示
    ![image](https://github.com/wp521/fingerLock/blob/master/pic/error.png) 
